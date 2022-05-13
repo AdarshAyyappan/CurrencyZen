@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CurrencyZen/static/css/main.c871a7be.css",
+    "main.js": "/CurrencyZen/static/js/main.616434d0.js",
+    "static/js/787.8c2de529.chunk.js": "/CurrencyZen/static/js/787.8c2de529.chunk.js",
+    "index.html": "/CurrencyZen/index.html",
+    "main.c871a7be.css.map": "/CurrencyZen/static/css/main.c871a7be.css.map",
+    "main.616434d0.js.map": "/CurrencyZen/static/js/main.616434d0.js.map",
+    "787.8c2de529.chunk.js.map": "/CurrencyZen/static/js/787.8c2de529.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c871a7be.css",
+    "static/js/main.616434d0.js"
+  ]
+}
